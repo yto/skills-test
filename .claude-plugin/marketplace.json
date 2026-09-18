@@ -1,0 +1,17 @@
+{
+  "name": "skills-test",
+  "owner": {
+    "name": "yto"
+  },
+  "metadata": {
+    "description": "cda のカタログ索引を確かめるための使い捨てリポジトリ",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "in-repo-notes-test",
+      "description": "索引の確認用。in-repo-notes スキルを1つだけ含む",
+      "source": "./plugins/in-repo-notes"
+    }
+  ]
+}
