@@ -11,7 +11,8 @@
     {
       "name": "in-repo-notes-test",
       "description": "索引の確認用。in-repo-notes スキルを1つだけ含む",
-      "source": "./plugins/in-repo-notes"
+      "source": "./plugins/in-repo-notes",
+      "strict": false
     }
   ]
 }
